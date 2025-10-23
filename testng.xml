@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API_Regression_Suite">
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+        <listener class-name="Listener.AllureLogs"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="Autochek_API_Automation">
+        <classes>
+            <class name="autochek_api_positive.UserService.UserService">
+                <methods>
+                    <include name="CreateFranchise"/>
+                    <include name="GetFranchiseByID"/>
+                    <include name="GetFranchiseList"/>
+<!--                    <include name="UpdateFranchise"/>-->
+<!--                    <include name="RejectFranchise"/>-->
+                </methods>
+            </class>
+            <class name="autochek_api_negative.UserService.UserServiceNegative">
+                <methods>
+<!--                    <include name="CreateFranchise"/>-->
+<!--                    <include name="UpdateFranchise"/>-->
+                    <include name="GetFranchiseByID"/>
+                    <include name="GetFranchiseList"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
