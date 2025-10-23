@@ -1,0 +1,122 @@
+HTTP/1.1 200 OK
+Date: Thu, 23 Oct 2025 09:00:09 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1809
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: set-cookie,Set-Cookie
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+ETag: W/"711-OfvjLalz5GJKgyb/FxiWapvOo+E"
+server: hide
+
+{
+    "result": [
+        {
+            "users": [
+                
+            ],
+            "documents": [
+                
+            ],
+            "dsas": [
+                {
+                    "id": "00P4ufOv5",
+                    "firstname": "Alphin",
+                    "lastname": "Kecha",
+                    "email": "kechaalvin5@gmail.com",
+                    "primaryPhone": "254724525431"
+                }
+            ],
+            "openingDaysAndTime": [
+                {
+                    "startDay": "Monday",
+                    "endDay": "Friday",
+                    "startTime": "8:00 AM",
+                    "endTime": "5:00 PM"
+                }
+            ],
+            "staffs": [
+                
+            ],
+            "pictures": [
+                
+            ],
+            "id": "OLf1NYnD3",
+            "name": "4x4 Autosolution",
+            "owner": "40BqM7Q3V",
+            "email": "4x4autosolutions@gmail.com",
+            "phonenumber": "2547228761027",
+            "bankName": "1234",
+            "status": "approved",
+            "contract": "pending",
+            "type": "dealer",
+            "subscriptionStatus": false,
+            "displayAddress": "Village Market ",
+            "address": "1 Mpesi Lane, Nairobi, Nairobi, Kenya",
+            "hasAssociation": false,
+            "longitude": 36.80706024169922,
+            "latitude": -1.2646255493164062,
+            "onboardingSource": {
+                "roles": [
+                    
+                ],
+                "deviceTokens": [
+                    
+                ],
+                "id": "g1XyB_U8L",
+                "firstname": "Judy Mwihaki",
+                "lastname": "Karanja",
+                "email": "judy.k@autochek.africa",
+                "primaryPhone": "254721470670",
+                "createdBy": "",
+                "referrerCode": "ME1PY5XX",
+                "country": "KE",
+                "active": true,
+                "createdAt": "Wed Sep 22 2021 12:00:13 GMT+0000 (Coordinated Universal Time)",
+                "updatedAt": "Wed May 11 2022 08:06:07 GMT+0000 (Coordinated Universal Time)",
+                "referredBy": "g1XyB_U8L",
+                "receiveNotification": true
+            },
+            "isAnchor": false,
+            "inspector": {
+                "id": "_7TmQN5pU",
+                "firstname": "Giga",
+                "lastname": "Autoworks",
+                "email": "habil@gigaautoworks.com",
+                "primaryPhone": "254720638097"
+            },
+            "accountManager": {
+                "id": "k4V-pzP0m",
+                "firstname": "sumasri",
+                "lastname": "frugaltesting",
+                "email": "sumasri@frugaltesting.com",
+                "primaryPhone": "254898989899"
+            },
+            "forCollateralInspection": true,
+            "whatsappNumber": "254458985689",
+            "displayPhoneNumber": "254258258258",
+            "extraDisplayPhoneNumber": "254258258999",
+            "createdAt": "Wed Oct 06 2021 11:55:59 GMT+0000 (Coordinated Universal Time)",
+            "houseNo": "1",
+            "zipCode": "",
+            "streetName": "Mpesi Lane",
+            "nearestLandmark": ""
+        }
+    ],
+    "pagination": {
+        "total": 300,
+        "currentPage": 1,
+        "pageSize": 10
+    }
+}

@@ -1,0 +1,38 @@
+Request method:	GET
+Request URI:	https://api.staging.myautochek.com/v1/franchise?page_size=1&country=NG&status=pending
+Proxy:			<none>
+Request params:	<none>
+Query params:	page_size=1
+				country=NG
+				status=pending
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiItUHEtNUlHNUgiLCJpYXQiOjE3NjEyMDk5NzgsImV4cCI6MTc5Mjc0NTk3OH0.lEL1Z6LW3G5C1wwyml9GR-XEWV3e_tYayMxCCQHpSQ3abjz0Jwab6XkvOuf2Ptbfd8SMreoToDErJosI4pUUrw
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	https://api.staging.myautochek.com/v1/franchise/5XIlULJ6H
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiItUHEtNUlHNUgiLCJpYXQiOjE3NjEyMDk5NzgsImV4cCI6MTc5Mjc0NTk3OH0.lEL1Z6LW3G5C1wwyml9GR-XEWV3e_tYayMxCCQHpSQ3abjz0Jwab6XkvOuf2Ptbfd8SMreoToDErJosI4pUUrw
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	https://api.staging.myautochek.com/v1/franchise/aavchh4mH
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiItUHEtNUlHNUgiLCJpYXQiOjE3NjEyMDk5NzgsImV4cCI6MTc5Mjc0NTk3OH0.lEL1Z6LW3G5C1wwyml9GR-XEWV3e_tYayMxCCQHpSQ3abjz0Jwab6XkvOuf2Ptbfd8SMreoToDErJosI4pUUrw
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>

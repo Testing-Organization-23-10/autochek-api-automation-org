@@ -1,0 +1,33 @@
+HTTP/1.1 400 Bad Request
+Date: Thu, 23 Oct 2025 09:00:24 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 223
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: set-cookie,Set-Cookie
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+ETag: W/"df-t8VURM1BfcaQklgZHmU1p57AKQ0"
+server: hide
+
+{
+    "code": 400,
+    "error": " Oops! That does not seem right.",
+    "message": " Oops! That does not seem right.",
+    "details": [
+        {
+            "type_url": "https://api.staging.myautochek.com",
+            "value": "/v1/franchise?page_size=50&country=KE&status=FALSE"
+        }
+    ]
+}

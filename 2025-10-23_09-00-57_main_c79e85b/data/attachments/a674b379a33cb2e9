@@ -1,0 +1,89 @@
+HTTP/1.1 200 OK
+Date: Thu, 23 Oct 2025 08:59:43 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1263
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: set-cookie,Set-Cookie
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+Set-Cookie: accessToken=s%3AeyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiItUHEtNUlHNUgiLCJpYXQiOjE3NjEyMDk5NzgsImV4cCI6MTc5Mjc0NTk3OH0.lEL1Z6LW3G5C1wwyml9GR-XEWV3e_tYayMxCCQHpSQ3abjz0Jwab6XkvOuf2Ptbfd8SMreoToDErJosI4pUUrw.nUYt6WdkiVcnQ2mgxbNTmt1Ws553PCrC5W%2Bir6kqoe0; Domain=.staging.myautochek.com; Path=/; Expires=Sat, 29 Sep 2125 08:59:42 GMT
+ETag: W/"4ef-1sA7SCO546hGgK4AI+naZuG4FbE"
+server: hide
+
+{
+    "users": [
+        
+    ],
+    "documents": [
+        
+    ],
+    "dsas": [
+        
+    ],
+    "openingDaysAndTime": [
+        
+    ],
+    "staffs": [
+        
+    ],
+    "pictures": [
+        
+    ],
+    "id": "aavchh4mH",
+    "name": "Frugal Automation 07",
+    "owner": "diyrHzEg6",
+    "email": "test1@gmail.com25245@mail.com",
+    "phonenumber": "2.34801E+1225245",
+    "bankName": "Autobank",
+    "accountName": "TestUser",
+    "accountBvn": 1962265949,
+    "status": "pending",
+    "contract": "pending",
+    "type": "dealer",
+    "subscriptionStatus": false,
+    "accountNumber": "12345678925245",
+    "displayAddress": "123 Test St",
+    "address": "12B Allen Avenue (Near Ikeja Mall), 100001",
+    "hasAssociation": false,
+    "longitude": 3.379199981689453,
+    "latitude": 6.524400234222412,
+    "onboardingSource": {
+        "roles": [
+            
+        ],
+        "deviceTokens": [
+            
+        ],
+        "id": "diyrHzEg6",
+        "firstname": "esha 13",
+        "lastname": "reddy",
+        "email": "esharedddy@frugaltestingin.com",
+        "primaryPhone": "23412345689",
+        "createdBy": "",
+        "referrerCode": "X22RYC52",
+        "country": "NG",
+        "active": true,
+        "createdAt": "Thu Jun 26 2025 07:49:55 GMT+0000 (Coordinated Universal Time)",
+        "updatedAt": "Thu Oct 23 2025 08:59:41 GMT+0000 (Coordinated Universal Time)",
+        "receiveNotification": true
+    },
+    "mapAddress": "Ikeja Center",
+    "isAnchor": true,
+    "forCollateralInspection": false,
+    "createdAt": "Thu Oct 23 2025 08:59:42 GMT+0000 (Coordinated Universal Time)",
+    "houseNo": "12B",
+    "zipCode": "100001",
+    "streetName": "Allen Avenue",
+    "nearestLandmark": "Near Ikeja Mall"
+}

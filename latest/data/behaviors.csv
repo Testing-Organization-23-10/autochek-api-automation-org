@@ -1,0 +1,5 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","API Automation","9","Negative UserService","29","0","Get Franchise List","0"
+"0","API Automation","0","Postive UserService","1","0","Get Franchise List","0"
+"0","API Automation","0","Postive UserService","2","0","Create Franchise","0"
+"0","API Automation","0","Negative UserService","1","0","Get Franchise By ID","0"
